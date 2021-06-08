@@ -1,0 +1,14 @@
+C:\Users\студент\source\repos\WpfApp18\bin\Debug\WpfApp18.exe.config
+C:\Users\студент\source\repos\WpfApp18\bin\Debug\WpfApp18.exe
+C:\Users\студент\source\repos\WpfApp18\bin\Debug\WpfApp18.pdb
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\WpfApp18.csprojAssemblyReference.cache
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\MainWindow.g.cs
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\App.g.cs
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\WpfApp18_MarkupCompile.cache
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\WpfApp18_MarkupCompile.lref
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\MainWindow.baml
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\WpfApp18.g.resources
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\WpfApp18.Properties.Resources.resources
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\WpfApp18.csproj.GenerateResource.cache
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\WpfApp18.exe
+C:\Users\студент\source\repos\WpfApp18\obj\Debug\WpfApp18.pdb
